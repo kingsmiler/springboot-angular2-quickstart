@@ -1,5 +1,5 @@
 {
-  "name": "spring-boot-angular2",
+  "name": "springboot-angular2-quickstart",
   "description": "Spring Boot with Angular2, Typescript, Sass, and a Gulp Build",
   "private": true,
   "version": "0.0.1-SNAPSHOT",
